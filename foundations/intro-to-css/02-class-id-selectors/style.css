@@ -1,0 +1,22 @@
+.pinkBackground {
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+  }
+
+#blueItem {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.pinkBackground.pinkCool {
+    font-size: 24px;
+}
+
+#greenItem {
+    background-color: #90ee90;
+    font-weight: bold;
+}
